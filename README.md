@@ -6,4 +6,4 @@ Then Goto view->Layout->Columns: 3 [For making 3 Parallel Columns] \
 Then Goto view->Groups->Max Columns: 2 [For Making required view]\
 For Compiling and Running Code - Ctrl+Shift+B-> select C++ Single File- Run\
 Shortcuts keys are added in repo.
-# Happy Coding
+# Happy Coding!
