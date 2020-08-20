@@ -1,1 +1,1 @@
-# Sublime-Text-For-CP
+# Sublime-Text-For-Competitive-Programming
