@@ -1,0 +1,4 @@
+Precompilation of (ext)
+We can speed up compilation time by precompiling all the header files by precompiling the ext header file. This can speed up compilation time by up to a factor of 12.
+For this, first, navigate to the opt_random.h file. This will be located at a directory similar to C:\MinGW\lib\gcc\mingw32\6.3.0\include\c++\mingw32\ext. Right click while pressing Shift to open a Powershell/cmd window there. Run the command g++ -std=c++17 opt_random.h, to compile the header. Take care to use the same flags you used in your build system. Check to make sure that the opt_random.h.gch file was created in the directory.
+If cmd window is not opening then go to start then type cmd. Then change directory by typing C:\MinGW\lib\gcc\mingw32\6.3.0\include\c++\mingw32\ext . then execute g++ -std=c++17 opt_random.h make sure opt_random.h.gch is created.
