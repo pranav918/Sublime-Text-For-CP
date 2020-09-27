@@ -9,13 +9,15 @@ Shortcuts keys are added in repo.
 
 ### Precompilation of bits/stdc++.h is also added.
 
-## Using C++ 17
-    By default c++ 98 is used with sublime text 3. To use c++ 17 go to above folder. C++ 17 with input.txt and output.txt.txt
-    tells has no need to use freopen.
-    Click on Tools -> Build System -> New Build System . Paste above file and save with sublime-build.
-    Now you can run with this file.
+### Using C++ 17
+   By default c++ 98 is used with sublime text 3.
+   To use c++ 17 go to above folder. C++ 17 with input.txt and output.txt.txt tells has no need to use freopen. \
+   Click on Tools -> Build System -> New Build System . Paste above file and save with sublime-build. \
+   Now you can run with this file.
     
-### Same Procedure is applied for c++ 14
+### Same Procedure is applied for c++ 14.
+
+### How to unable PBDS for windows is also given.
 
 
 # Happy Coding!
